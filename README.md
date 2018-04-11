@@ -1,2 +1,9 @@
 # ml-ai
-ML AI links
+## Community
+* http://d3center.ca/ai-district/
+
+## Courses
+* fast.ai
+
+## Projects
+* https://lyrebird.ai/ Voice Synthesis
